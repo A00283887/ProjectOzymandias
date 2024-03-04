@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f0d53b15312b841b856d6ffcd00156, type: 3}
+  m_Name: NewConversation
+  m_EditorClassIdentifier: 
+  conversations:
+  - lines:
+    - Well hey there, Dr. Fuller. Working on that fancy underwater tech again, are
+      ya
+    - Yes, Ian. Just tweaking the sonar capabilities. How's Buck doing? Still got
+      his nose in everything?
+    - Buck's same as always, Dante. Can't keep that old hound away from a good mystery.
+    - That's Buck for you. Keep him away from my lab. No pups allowed near Ollie,
+      remember?
+    - Just came in to grab something, heard your sea shanties echoin' down the hall.
+      Keeps the place lively.
+    - Just came in to grab something, heard your sea shanties echoin' down the hall.
+      Keeps the place lively.
+    - Well, I better get back to it. Nice chattin' with ya, Dante. Take care, now
